@@ -23,10 +23,11 @@ h1 {
   background: #080001;
   color: #F94F6D;
   padding: 30px 50px 0 0px; 
+  text-shadow: 6px 2px 5px violet;
 }  
 
 button {
-  font-family: 'Cursed Timer ULiL', sans-serif;
+  font-family: inherit;
   padding: 10px;
   border: 2px solid #9AABD8;
   color: #9AABD8;
